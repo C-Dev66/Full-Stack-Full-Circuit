@@ -15,8 +15,13 @@ mkdir "$TARGET_PATH"
 echo "📋 Copying published notes from Obsidian vault..."
 cp -r "$VAULT_PATH"/* "$TARGET_PATH"
 
-echo "🔧 Building Quartz site using npx..."
+echo "📂 Switching to Quartz directory..."
 cd "$QUARTZ_PATH"
+
+echo "🔄 Syncing Quartz site metadata..."
+npx quartz sync
+
+echo "🔧 Building Quartz site..."
 npx quartz build
 
 echo "📦 Committing and pushing to GitHub..."
