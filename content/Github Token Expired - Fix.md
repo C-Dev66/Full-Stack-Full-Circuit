@@ -29,6 +29,8 @@ git remote -v
 Alternatively, you can configure SSH authentication instead of using a token. A helpful YouTube tutorial is linked below for reference.
 
 *Edited with the help of AI tools for clarity and tone.*
+
+Test for Quartz
 ###### References
 
 | Type:   | Link/Description:                           |

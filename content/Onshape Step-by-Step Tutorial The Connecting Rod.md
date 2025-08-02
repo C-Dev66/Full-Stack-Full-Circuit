@@ -32,8 +32,6 @@ When the part is complete you can introduce the Assembly Tab. Here is where you 
 |                 |                                                                                                                                                                                                                                                           |
 
 
-
-
 Shortcuts:
 
 | Shorcut            | Description                                                                                                                                 |

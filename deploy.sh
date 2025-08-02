@@ -21,12 +21,5 @@ cd "$QUARTZ_PATH"
 echo "🔄 Syncing Quartz site metadata..."
 npx quartz sync
 
-echo "🔧 Building Quartz site..."
-npx quartz build
-
-echo "📦 Committing and pushing to GitHub..."
-git add .
-git commit -m "Deploy: $(date '+%Y-%m-%d %H:%M:%S')"
-git push origin main
 
 echo "✅ Deployment complete. Your Quartz site will update shortly via GitHub Pages."
