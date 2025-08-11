@@ -35,3 +35,9 @@ Alternatively, you can configure SSH authentication instead of using a token. A 
 | Type:   | Link/Description:                           |
 | ------- | ------------------------------------------- |
 | Youtube | https://www.youtube.com/watch?v=IuiH6cBtc58 |
+[[Set Up a Github Pages for Obsidian using Quartz]]
+
+[[Setting up Jekyll for Github Pages]]
+
+[[Setting up a Custom Domain for Github Pages]]
+

@@ -37,5 +37,7 @@ git commit -m "Stop tracking folder_to_remove"
 
 [[Github Token Expired - Fix]]
 [[Set Up a Github Pages for Obsidian using Quartz]]
+[[Setting up Jekyll for Github Pages]]
+[[Setting up a Custom Domain for Github Pages]]
 
 

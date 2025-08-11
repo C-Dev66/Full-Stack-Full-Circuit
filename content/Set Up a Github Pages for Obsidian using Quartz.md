@@ -17,8 +17,6 @@ The goal is to create a portfolio website that includes:
 Quartz v4+ is a note-publishing tool designed for markdown-based content. It includes features such as:  Tag support, Backlinks and graph view,  Folder-based content organization
     
 
-  
-
 To set up Quartz, run the following:
 
 ```
@@ -28,7 +26,7 @@ npm i
 npx quartz create
 ```
 
-Responce after setting up quartz
+Response after setting up quartz
 
 ```
   You're all set! Not sure what to do next? Try:
@@ -44,8 +42,7 @@ to exit ctrl+c
 
 You may want to keep your full Obsidian vault private and only publish a specific folder (e.g., Main Notes). While symlinking the folder to Quartz’s content directory works locally, GitHub Pages does not support symlinks. To address this, we use a script that copies the selected notes folder directly into the Quartz content directory before building and deploying the site.
 
-
-Remeber to sync with
+Remember to sync with
 
 ```
 npx quartz sync
