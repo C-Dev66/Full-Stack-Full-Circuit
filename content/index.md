@@ -6,4 +6,4 @@ This knowledge base is my way of organizing ideas and projects in a polished, se
 
 All notes begin in an Obsidian vault and are then published here through GitHub Pages. Locally, I tag entries with common words or phrases, making them easy to search and link visually. You can browse topics in the Explorer or switch to Graph View to uncover connections across tags and posts.
 
-Enjoy exploring & learn something new everyday!
+Enjoy exploring & be sure to learn something new everyday!
